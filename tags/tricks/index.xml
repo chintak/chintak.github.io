@@ -24,8 +24,7 @@ Vectorization First let&amp;rsquo;s revisit how we would do any arithmetic opera
       <pubDate>Tue, 30 Jul 2013 00:00:00 +0000</pubDate>
       
       <guid>https://chintak.github.io/posts/2013-07-30-numpy-the-tricks-of-trade-part-i/</guid>
-      <description>This post aims to highlights some of the basic features of NumPy which gives it an edge over Python in-built containers for computational purposes. The next post will talk about some advanced and more fascinating features of NumPy.
-NumPy is an extension package for performing efficient manipulations in multi-dimensional data. The numpy array object is extremely efficient at handling such arithmetics and provides vast support for basic and advanced manipulations.</description>
+      <description>This post aims to highlights some of the basic features of NumPy which gives it an edge over Python in-built containers for computational purposes. The next post will talk about some advanced and more fascinating features of NumPy. $$1$$ NumPy is an extension package for performing efficient manipulations in multi-dimensional data. The numpy array object is extremely efficient at handling such arithmetics and provides vast support for basic and advanced manipulations.</description>
     </item>
     
   </channel>
