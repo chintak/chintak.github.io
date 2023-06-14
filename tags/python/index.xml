@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>python on Notable ML Blog</title>
+    <link>https://chintak.github.io/tags/python/</link>
+    <description>Recent content in python on Notable ML Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 31 Jul 2013 00:00:00 +0000</lastBuildDate><atom:link href="https://chintak.github.io/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NumPy: The tricks of the trade (Part II)</title>
+      <link>https://chintak.github.io/posts/2013-07-31-numpy-the-tricks-of-the-trade-part-ii/</link>
+      <pubDate>Wed, 31 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://chintak.github.io/posts/2013-07-31-numpy-the-tricks-of-the-trade-part-ii/</guid>
+      <description>This post will describe about the more advanced and fun stuff about NumPy. For basics, refer to Part I.
+Vectorization First let&amp;rsquo;s revisit how we would do any arithmetic operation on all the elements of list (Python in-built container). Looping through all the elements is probably the only way to go about it. The neatest syntax is using list comprehensions.
+# List Comprehension &amp;gt;&amp;gt;&amp;gt; L = [1,2,3,4] &amp;gt;&amp;gt;&amp;gt; [i * 2 for i in L] # list comprehension [2, 4, 6, 8] Now imagine doing this for a multi-dimensional list of data and think about the readability.</description>
+    </item>
+    
+    <item>
+      <title>NumPy: The Tricks of Trade (Part I)</title>
+      <link>https://chintak.github.io/posts/2013-07-30-numpy-the-tricks-of-trade-part-i/</link>
+      <pubDate>Tue, 30 Jul 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://chintak.github.io/posts/2013-07-30-numpy-the-tricks-of-trade-part-i/</guid>
+      <description>This post aims to highlights some of the basic features of NumPy which gives it an edge over Python in-built containers for computational purposes. The next post will talk about some advanced and more fascinating features of NumPy.
+NumPy is an extension package for performing efficient manipulations in multi-dimensional data. The numpy array object is extremely efficient at handling such arithmetics and provides vast support for basic and advanced manipulations.</description>
+    </item>
+    
+  </channel>
+</rss>
